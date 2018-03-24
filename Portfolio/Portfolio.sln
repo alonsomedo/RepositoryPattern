@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portfolio", "Portfolio\Portfolio.csproj", "{25169CD3-FE19-4A5F-B2F1-8F2ADD52D3B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{5849385C-3DF3-479B-AD06-19DBBB622AF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistence", "Persistence\Persistence.csproj", "{BA515FD6-4FE1-43CF-ABC2-7A82F7E3EE91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25169CD3-FE19-4A5F-B2F1-8F2ADD52D3B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25169CD3-FE19-4A5F-B2F1-8F2ADD52D3B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25169CD3-FE19-4A5F-B2F1-8F2ADD52D3B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25169CD3-FE19-4A5F-B2F1-8F2ADD52D3B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5849385C-3DF3-479B-AD06-19DBBB622AF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5849385C-3DF3-479B-AD06-19DBBB622AF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5849385C-3DF3-479B-AD06-19DBBB622AF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5849385C-3DF3-479B-AD06-19DBBB622AF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA515FD6-4FE1-43CF-ABC2-7A82F7E3EE91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA515FD6-4FE1-43CF-ABC2-7A82F7E3EE91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA515FD6-4FE1-43CF-ABC2-7A82F7E3EE91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA515FD6-4FE1-43CF-ABC2-7A82F7E3EE91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66F4DD5A-E681-4330-91E5-4F85D3F6EE3D}
+	EndGlobalSection
+EndGlobal
